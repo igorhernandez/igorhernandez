@@ -13,7 +13,7 @@ Seeing the projects take shape visually is what fascinates me and makes me love 
 ### Technologies
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="100px" width="100px" />
 </div>
 
 <div>
