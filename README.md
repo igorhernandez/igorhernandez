@@ -30,7 +30,7 @@ Seeing the projects take shape visually is what fascinates me and makes me love 
 <div style="margin-bottom: 25px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="25px" width="25px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="25px" width="25px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25px" width="25px" />
 </div>
 
 <div>
