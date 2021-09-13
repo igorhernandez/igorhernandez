@@ -33,7 +33,7 @@ Seeing the projects take shape visually is what fascinates me and makes me love 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25px" width="25px" />
 </div>
 
-<div>
+<div style="margin-top: 25px;">
   <a href="https://github.com/igorhernandez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorhernandez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorhernandez&layout=compact&langs_count=7&theme=dracula"/>
