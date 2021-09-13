@@ -26,6 +26,7 @@ Seeing the projects take shape visually is what fascinates me and makes me love 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25px" width="25px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25px" width="25px" />
 
+
 </div>
 
 ### Design
