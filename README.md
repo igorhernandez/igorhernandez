@@ -10,6 +10,12 @@ As a Mobile Developer, I seek to accurately develop the interface and experience
 
 Seeing the projects take shape visually is what fascinates me and makes me love the front end. I love technology, and knowing that I can contribute to improving people's experience through it is rewarding. I value cultivating friendships and adding to people's lives in some positive way. In addition, I always try to do my best and I am in constant search for excellence and professional growth, facing challenges and learning from each of them.
 
+### Technologies
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+</div>
+
 <div>
   <a href="https://github.com/igorhernandez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorhernandez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
