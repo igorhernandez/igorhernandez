@@ -26,8 +26,6 @@ Seeing the projects take shape visually is what fascinates me and makes me love 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25px" width="25px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25px" width="25px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25px" width="25px" />
-
-
 </div>
 
 ### Design
@@ -38,6 +36,8 @@ Seeing the projects take shape visually is what fascinates me and makes me love 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25px" width="25px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="25px" width="25px" />
 </div>
+
+<br />
 
 <div style="margin-top: 25px;">
   <a href="https://github.com/igorhernandez">
