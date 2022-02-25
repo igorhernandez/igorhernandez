@@ -3,7 +3,7 @@
 - 💻 I’m currently working on Grupo Boticário.
 - 📱 I'm addict to learning more and more about mobile devices.
 - 🌱 Fun fact: I love growing plants and gardens.
-- ❤ I love JS, HTML, CSS, develop mobile apps, playing video games and Harry Potter movies 👓.
+- ❤ I love Mobile Apps, JS, HTML, CSS, develop mobile apps, playing video games and Harry Potter movies 👓.
 
 ### About me
 
